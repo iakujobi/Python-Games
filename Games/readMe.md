@@ -22,3 +22,11 @@ A good way to pratice loops and the if-else statement
 Similar to guess the number (CPU).
 
 - Difference is that the user comes up with a random number and the computer guesses the number
+
+# Rock-Paper-Scissors
+
+This game allows you to practice how to use a library and write functions
+You know the game already, right :eyes:
+
+- But in case you don't know the rules, the rules are:
+  - Rock beats Scissors, Scissors beats Paper, and Paper beats Rock
