@@ -12,7 +12,13 @@ A good way to practice string concatenation (aka how to put strings together)
 
 # Guess the Number (CPU)
 
-A good way to pratice the if-else statement
+A good way to pratice loops and the if-else statement
 
 - Computer comes up with a random number and the user guesses the number
 - The game stops when the user guesses the correct number
+
+# Guess the Number (User)
+
+Similar to guess the number (CPU).
+
+- Difference is that the user comes up with a random number and the computer guesses the number
