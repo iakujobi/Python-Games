@@ -25,8 +25,9 @@ Similar to guess the number (CPU).
 
 # Rock-Paper-Scissors
 
-This game allows you to practice how to use a library and write functions
+This game allows you to practice how to use a library and write functions.
 You know the game already, right :eyes:
 
-- But in case you don't know the rules, the rules are:
-  - Rock beats Scissors, Scissors beats Paper, and Paper beats Rock
+But in case you don't know the rules, the rules are:
+
+- Rock beats Scissors, Scissors beats Paper, and Paper beats Rock
