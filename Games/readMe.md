@@ -31,3 +31,11 @@ You know the game already, right :eyes:
 But in case you don't know the rules, the rules are:
 
 - Rock beats Scissors, Scissors beats Paper, and Paper beats Rock
+
+# Hangman
+
+Hangman is a paper and pencil guessing game for two or more players. One player thinks of a word, phrase or sentence and the other tries to guess it by suggesting letters within a certain number of guesses.
+
+- In our case, the two players are CPU and you (user)
+- CPU will guess a random word from the words list in the words.py file
+- This program allows you to practice importing from another file/library and using it in your program
