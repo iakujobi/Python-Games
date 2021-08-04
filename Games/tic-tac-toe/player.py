@@ -1,3 +1,4 @@
+# import libraries
 import math
 import random
 
@@ -12,6 +13,7 @@ class Player:
         pass
 
 
+# Class for CPU player
 class RandomComputerPlayer(Player):
     def __init__(self, letter):
         super().__init__(letter)
@@ -22,6 +24,7 @@ class RandomComputerPlayer(Player):
         return square
 
 
+# Class for human player
 class HumanPlayer(Player):
     def __init__(self, letter):
         super().__init__(letter)
