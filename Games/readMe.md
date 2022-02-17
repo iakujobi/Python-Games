@@ -47,3 +47,11 @@ Tic-tac-toe, noughts and crosses, or Xs and Os/“X’y O’sies”, is a paper-
 - In this game, the user will play against CPU.
 - player.py file is used to create the different players (user and CPU), while game.py is used to create the actual gameplay.
 - You will learn how to use static methods. [Click link to learn more about it](https://www.geeksforgeeks.org/class-method-vs-static-method-python/)
+
+# Ask-YesOrNo
+
+Ask yes-or-no is a modern fun game to ask your crush out on a date. It's a simple code that you can be shared with your crush in order to get their feedback.
+
+- In this game, the user will run the code and be greeted with a pop-up question
+- If user's response is YES or NO, user receives a pop-up response back
+- The commented code is an evil twist to the code and includes a while loop to prevent the user from closing the pop-up response if their answer is a NO.
